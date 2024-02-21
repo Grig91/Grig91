@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Grig91
 - 👀 I’m interested in learning programming (Web design, Java, Python).
-- 🌱 I’m currently learning Web design, Java
+- 🌱 I’m currently learning Python, Web design
 - 💞️ I’m looking to collaborate on Java programming.
 - 📫 How to reach me ...
 
